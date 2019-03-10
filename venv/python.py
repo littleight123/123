@@ -1,4 +1,4 @@
 x=10
-y=15
+y=18
 ans=x+y
 print(ans)
